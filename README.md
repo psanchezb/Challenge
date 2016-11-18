@@ -80,3 +80,19 @@ the values and the second with the errors . There are measurements in 65 differe
 (63) J0515
 (64) J0660
 (65) J0861
+
+As we agreed, we will all use the same set of models (as we want to test the methods not the models). I'm, therefore, provicing you 
+with the templates as well (templates_challenge.tar)
+
+The name of the templates include the age and the metallicity:
+Nku1.30Z0.0199T00.0885_iPp0.00_baseFe.txt
+For example, here the metallicity is Z=0.0199 (the Solar value) and the age T=0.0885 (Gyr)
+
+You're expected to provide with the following outputs (or a subset of them if your code does not calculate all):
+(1) Stellar masses
+(2) Mean weighted age and metallicity (with both, light and mass)
+(3) Extinction
+
+
+
+
